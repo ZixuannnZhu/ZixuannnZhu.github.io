@@ -109,11 +109,11 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 95
+        percent: 90
         icon: code-bracket
-      - name: Machine Learning
+      - name: MatLab
         description: ''
-        percent: 100
+        percent: 70
         icon: chart-bar
   - name: Hobbies
     color: '#eeac02'
@@ -121,11 +121,11 @@ skills:
     items:
       - name: Hiking
         description: ''
-        percent: 80
+        percent: 70
         icon: person-simple-walk
       - name: Sudoku & Tetris 
         description: ''
-        percent: 90
+        percent: 100
         icon: cpu-chip
 
 languages:
