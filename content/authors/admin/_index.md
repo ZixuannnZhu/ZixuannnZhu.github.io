@@ -50,6 +50,9 @@ interests:
   - Online Algorithms
   - Approximation Algorithms
 
+news:
+  - test
+
 education:
   - area: PhD in Computer Science
     institution: the University of Hong Kong
