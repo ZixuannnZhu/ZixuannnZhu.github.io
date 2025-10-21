@@ -10,7 +10,7 @@ first_name: Zixuan
 last_name: Zhu
 
 # Pronouns (optional)
-pronouns: 朱子璇
+pronouns: My name in simplified Chinese: 朱子璇
 
 # Status emoji
 status:
