@@ -9,8 +9,8 @@ name_pronunciation: ''
 first_name: Zixuan
 last_name: Zhu
 
-# Pronouns (optional)
-pronouns: 朱子璇
+# Pronouns (used for email here)
+pronouns: zxzhu@cs.hku.hk
 
 # Status emoji
 status:
