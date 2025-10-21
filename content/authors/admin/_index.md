@@ -119,11 +119,11 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Sudoku
         description: ''
         percent: 70
-        icon: person-simple-walk
-      - name: Sudoku & Tetris 
+        icon: "puzzle"
+      - name: Tetris 
         description: ''
         percent: 100
         icon: cpu-chip
