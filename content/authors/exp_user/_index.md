@@ -1,5 +1,37 @@
 ---
 
+# Display name
+title: Zixuan Zhu
+
+# Name pronunciation (optional)
+name_pronunciation: ''
+
+# Full name (for SEO)
+first_name: Zixuan
+last_name: Zhu
+
+# Pronouns (used for email here)
+pronouns: zxzhu@cs.hku.hk
+
+# Status emoji
+status:
+  icon: ''
+
+# Is this the primary user of the site?
+superuser: false
+
+# Highlight the author in author lists? (true/false)
+highlight_name: true
+
+# Role/position/tagline
+role: PhD in Computer Science
+
+# Organizations/Affiliations to display in Biography blox
+organizations:
+  - name: the Univeristy of Hong Kong
+    url: https://www.hku.hk/
+
+
 education:
   - area: PhD in Computer Science
     institution: the University of Hong Kong
