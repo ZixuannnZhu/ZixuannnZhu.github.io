@@ -3,14 +3,14 @@
 title: Zixuan Zhu
 
 # Name pronunciation (optional)
-name_pronunciation: 朱子璇
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Zixuan
 last_name: Zhu
 
 # Pronouns (optional)
-pronouns: ''
+pronouns: 朱子璇
 
 # Status emoji
 status:
