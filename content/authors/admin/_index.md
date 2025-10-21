@@ -145,4 +145,4 @@ awards:
 
 I am a fourth-year PhD student at ALGO Lab, School of Computing and Data Science, the University of Hong Kong. I am honored to be advised by Prof. Zhiyi Huang. I obtained my BSc in Mathematics also from the University of Hong Kong, where I was honored to be supervised by Professor Wong, Tak Kwong for my final year project in optimal control theory.
 
-My current research interest lies in online algorithms and approximation algorithms. Specifically, I am interested in classic stopping time problems like Matroid Secretary, Pandora's Box and Prophet Inequality, investigating the trade-off between exploration and exploitation. I am also interested in the adaptivity gap in online decision making. 
+My current research interest lies in online algorithms and approximation algorithms. Specifically, I am interested in classic stopping time problems including Matroid Secretary, Pandora's Box Problem and Prophet Inequality, focusing on the trade-off between exploration and exploitation, and the adaptivity gap in online decision making. 
