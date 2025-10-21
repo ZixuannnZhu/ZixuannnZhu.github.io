@@ -49,7 +49,6 @@ interests:
   - Theoretical Computer Science
   - Online Algorithms
   - Approximation Algorithms
-  - Stopping Time Problems
 
 education:
   - area: PhD in Computer Science (TCS)
