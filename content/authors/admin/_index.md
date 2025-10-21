@@ -104,8 +104,8 @@ work:
       Compile mathematics exercise book and DSE simulation volume.
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
+# skills:
+  # - name: Technical Skills
     items:
       - name: Python
         description: ''
@@ -115,7 +115,7 @@ skills:
         description: ''
         percent: 70
         icon: chart-bar
-  - name: Hobbies
+  # - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
