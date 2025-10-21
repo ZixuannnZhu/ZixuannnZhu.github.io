@@ -20,8 +20,6 @@ sections:
         url: uploads/resume.pdf
       headings:
         education: ''
-        interests: ''
-        news: test
     design:
       # Apply a gradient background
       css_class: hbx-bg-gradient
