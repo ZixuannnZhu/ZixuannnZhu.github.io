@@ -6,7 +6,7 @@ title: Zixuan Zhu
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: test
+first_name: Zixuan
 last_name: Zhu
 
 # Pronouns (used for email here)
