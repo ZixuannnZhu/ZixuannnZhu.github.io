@@ -1,34 +1,5 @@
 ---
 
-# Highlight the author in author lists? (true/false)
-highlight_name: true
-
-# Role/position/tagline
-role: PhD in Computer Science
-
-# Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: the Univeristy of Hong Kong
-    url: https://www.hku.hk/
-
-# Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
-profiles:
-  - icon: "envelope"
-    url: 'mailto:zhuzixua@connect.hku.hk'
-    label: E-mail Me
-  - icon: brands/github
-    url: https://github.com/ZixuannnZhu
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/zixuan-zhu-1aa2791a7/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?hl=en&tzom=-480&user=zX7EDB8AAAAJ
-  - icon: academicons/orcid
-    url: https://orcid.org/0009-0009-1099-468X
-
-news:
-  - test
-
 education:
   - area: PhD in Computer Science
     institution: the University of Hong Kong
