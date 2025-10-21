@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: '6rem'
+  spacing: '3rem'
 
 sections:
   - block: resume-biography-3
@@ -21,7 +21,7 @@ sections:
       headings:
         education: ''
         interests: ''
-        news: ''
+        news: test
     design:
       # Apply a gradient background
       css_class: hbx-bg-gradient
