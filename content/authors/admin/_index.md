@@ -51,7 +51,7 @@ interests:
   - Approximation Algorithms
 
 education:
-  - area: PhD in Computer Science (TCS)
+  - area: PhD in Computer Science
     institution: the University of Hong Kong
     date_start: 2022-09-01
     date_end: ''
@@ -60,7 +60,7 @@ education:
     # button:
       # text: 'Read Thesis'
       # url: 'https://example.com/thesis.pdf'
-  - area: Bachelor of Science (Mathematics)
+  - area: BSc in Mathematics
     institution: the University of Hong Kong
     date_start: 2017-09-01
     date_end: 2022-05-31
