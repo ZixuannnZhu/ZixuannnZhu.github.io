@@ -86,7 +86,22 @@ work:
     date_end: 2022-08-31
     summary: |2-
       Conduct research on mean-field games and mean-field type control problems. Design efficient numerical schemes when finding an analytical solution is infeasible.
-
+  - position: Actuarial Internship
+    company_name: AIA Group
+    company_url: 'https://www.aia.com/en'
+    company_logo: ''
+    date_start: 2020-07-01
+    date_end: 2020-12-31
+    summary: |2-
+      Perform the calculation and data extraction for the financial reports. Conduct data analysis and result explanation and summarize the main ingredients into aggregation reports.
+  - position: Editorial Assistant
+    company_name: Hong Kong Educational Publishing Company Limited
+    company_url: 'https://www.hkep.com/_v3/index.php?target=home&lang=tc'
+    company_logo: ''
+    date_start: 2020-06-01
+    date_end: 2020-06-30
+    summary: |
+      Compile mathematics exercise book and DSE simulation volume.
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
@@ -141,4 +156,8 @@ awards:
     summary: |
       Awarded for the paper `Laminar Matroid Secretary: Greedy Strikes Back'.
 ---
-''
+
+I am a fourth-year PhD student at ALGO Lab, School of Computing and Data Science, the University of Hong Kong. I am honored to be advised by Prof. Zhiyi Huang. I obtained my BSc in Mathematics also from the University of Hong Kong, where I was honored to be supervised by Professor Wong, Tak Kwong for my final year project in optimal control theory.
+
+My current research interest lies in online algorithms and approximation algorithms. Specifically, I am interested in classic stopping time problems including Matroid Secretary, Pandora's Box Problem and Prophet Inequality, focusing on the trade-off between exploration and exploitation, and the adaptivity gap in online decision making.
+
