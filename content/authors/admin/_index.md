@@ -147,14 +147,14 @@ awards:
     awarder: COCOON 2024
     icon: hero/trophy
     summary: |
-      Awarded for the paper `MPMD on Two Sources with Lookahead'.
+      Awarded for the paper *MPMD on Two Sources with Lookahead*.
   - title: Best Paper Award (Track S)
     url: ''
     date: '2024-09-02'
     awarder: ESA 2024
     icon: hero/trophy
     summary: |
-      Awarded for the paper `Laminar Matroid Secretary: Greedy Strikes Back'.
+      Awarded for the paper *Laminar Matroid Secretary: Greedy Strikes Back*.
 ---
 
 I am a fourth-year PhD student at ALGO Lab, School of Computing and Data Science, the University of Hong Kong. I am honored to be advised by Prof. Zhiyi Huang. I obtained my BSc in Mathematics also from the University of Hong Kong, where I was honored to be supervised by Professor Wong, Tak Kwong for my final year project in optimal control theory.
