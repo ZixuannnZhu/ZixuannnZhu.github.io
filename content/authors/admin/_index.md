@@ -3,7 +3,7 @@
 title: Zixuan Zhu
 
 # Name pronunciation (optional)
-name_pronunciation: ''
+name_pronunciation: test
 
 # Full name (for SEO)
 first_name: Zixuan
@@ -14,7 +14,7 @@ pronouns: ''
 
 # Status emoji
 status:
-  icon: 🚀
+  icon: ''
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,7 +23,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD student at the University of Hong Kong
+role: PhD student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -34,18 +34,16 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:zhuzixua@connect.hku.hk'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/ZixuannnZhu
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://www.linkedin.com/in/zixuan-zhu-1aa2791a7/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: https://scholar.google.com/citations?hl=en&tzom=-480&user=zX7EDB8AAAAJ
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0009-0009-1099-468X
 
 interests:
   - Large Language Models
