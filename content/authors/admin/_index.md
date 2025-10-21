@@ -45,11 +45,6 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/0009-0009-1099-468X
 
-interests:
-  - Theoretical Computer Science
-  - Online Algorithms
-  - Approximation Algorithms
-
 news:
   - test
 
