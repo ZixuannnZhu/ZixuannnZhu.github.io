@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zixuan Zhu
+title: nothing
 
 # Name pronunciation (optional)
 name_pronunciation: ''
