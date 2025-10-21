@@ -1,12 +1,12 @@
 ---
 # Display name
-title: nothing
+title: Zixuan Zhu
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Zixuan
+first_name: test
 last_name: Zhu
 
 # Pronouns (used for email here)
