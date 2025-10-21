@@ -18,8 +18,6 @@ sections:
       button:
         text: Download CV
         url: uploads/resume.pdf
-      headings:
-        education: ''
     design:
       # Apply a gradient background
       css_class: hbx-bg-gradient
