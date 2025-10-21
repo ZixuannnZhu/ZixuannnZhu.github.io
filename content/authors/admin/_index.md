@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zixuan Zhu
+title: Zixuan Zhu 朱子璇
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -10,7 +10,7 @@ first_name: Zixuan
 last_name: Zhu
 
 # Pronouns (optional)
-pronouns: My name in simplified Chinese\: 朱子璇
+pronouns: ''
 
 # Status emoji
 status:
