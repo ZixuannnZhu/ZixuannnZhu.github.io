@@ -157,7 +157,7 @@ awards:
       Awarded for the paper *Laminar Matroid Secretary: Greedy Strikes Back*.
 ---
 
-I am a fourth-year PhD student at ALGO Lab, School of Computing and Data Science, the University of Hong Kong. I am honored to be advised by Prof. Zhiyi Huang. I obtained my BSc in Mathematics also from the University of Hong Kong, where I was honored to be supervised by Professor Wong, Tak Kwong for my final year project in optimal control theory.
+I am a fourth-year PhD student at [ALGO Lab](https://www.cds.hku.hk/research-laboratories-and-centres/), School of Computing and Data Science, the University of Hong Kong. I am honored to be advised by [Prof. Zhiyi Huang](https://i.cs.hku.hk/~zhiyi/). I obtained my BSc in Mathematics also from the University of Hong Kong, where I was honored to be supervised by [Professor Wong, Tak Kwong](https://repository.hku.hk/cris/rp/rp02167) for my final year project in optimal control theory.
 
 My current research interest lies in online algorithms and approximation algorithms. Specifically, I am interested in classic stopping time problems including Matroid Secretary, Pandora's Box Problem and Prophet Inequality, focusing on the trade-off between exploration and exploitation, and the adaptivity gap in online decision making.
 
