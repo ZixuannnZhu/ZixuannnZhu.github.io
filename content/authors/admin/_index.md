@@ -102,32 +102,7 @@ work:
     date_end: 2020-06-30
     summary: |
       Compile mathematics exercise book and DSE simulation volume.
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
-# skills:
-  # - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        percent: 90
-        icon: code-bracket
-      - name: MatLab
-        description: ''
-        percent: 70
-        icon: chart-bar
-  # - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Sudoku
-        description: ''
-        percent: 70
-        icon: "puzzle"
-      - name: Tetris 
-        description: ''
-        percent: 100
-        icon: cpu-chip
-
+    
 languages:
   - name: Mandarin
     percent: 100
